@@ -36,15 +36,19 @@ Intern at WAK Associate as Financial Statement Analyst
 
 ## Education📕
 B.SC Accounting at Osun State University
+
 Certified Data Analyst at Hagital Consulting
+
 Data Analytics Certification – Google Coursera   
 
 ## Certification
 Essential of MS Excel-Formulas and Functions at uniathena
+
 Analysis & Visualization with power BI     
 
 ## Contact Adress
 Email: adeyemitomiwa942@gmail.com
+
 Linkdin: www.linkedin.com/in/adeyemi-tomiwa02
 
 ## Resume
