@@ -30,3 +30,22 @@ https://github.com/Adetomiwa-1234/MAVIN-TOYS-ANALYSIS
 I cleaned and structured the raw dataset by removing duplicates, correcting data types, and standardizing fields. 
 Then, I used Pivot Tables to analyze key metrics like sales by region, product, and month. 
 Calculated fields were added to derive profit margins and performance ratios for deeper business insights.
+
+## Experience 
+Intern at WAK Associate as Financial Statement Analyst
+
+## Education📕
+B.SC Accounting at Osun State University
+Certified Data Analyst at Hagital Consulting
+Data Analytics Certification – Google Coursera   
+
+##Certification
+Essential of MS Excel-Formulas and Functions at uniathena
+Analysis & Visualization with power BI     
+
+## Contact Adress
+Email: adeyemitomiwa942@gmail.com
+Linkdin: www.linkedin.com/in/adeyemi-tomiwa02
+
+## Resume
+Here the link to download my resume -<a href="https://drive.google.com/file/d/1AszlJDQAQh04HIDky9L1R4aiHZJr6Uz7/view?usp=drive_link">Resume</a>
