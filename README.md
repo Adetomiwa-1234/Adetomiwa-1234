@@ -12,3 +12,9 @@ evaluation. Each one deepens my commitment to building systems that uplift commu
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
+## Skills 🛠
+Data Analytics & Visualization:
+•	Excel (Pivot Tables, Power Query, Charts, Power Pivot)
+•	SQL (PostgreSQL Microsoft SQL Server, MySQL
+•	Power BI
+•	Python
