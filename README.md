@@ -39,7 +39,7 @@ B.SC Accounting at Osun State University
 Certified Data Analyst at Hagital Consulting
 Data Analytics Certification – Google Coursera   
 
-##Certification
+## Certification
 Essential of MS Excel-Formulas and Functions at uniathena
 Analysis & Visualization with power BI     
 
