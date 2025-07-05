@@ -14,7 +14,11 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 ## Skills 🛠
 Data Analytics & Visualization:
+
 •	Excel (Pivot Tables, Power Query, Charts, Power Pivot)
+
 •	SQL (PostgreSQL Microsoft SQL Server, MySQL
+
 •	Power BI
+
 •	Python
