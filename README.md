@@ -37,9 +37,7 @@ Intern at WAK Associate as Financial Statement Analyst
 ## Education📕
 B.SC Accounting at Osun State University
 
-Certified Data Analyst at Hagital Consulting
-
-Data Analytics Certification – Google Coursera   
+Certified Data Analyst at Hagital Consulting  
 
 ## Certification
 Essential of MS Excel-Formulas and Functions at uniathena
